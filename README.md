@@ -5,7 +5,7 @@ Gympass style app.
 ## FRs (Functional requirements)
 
 - [x] It should be possible to register.
-- [ ] It should be possible to authenticate.
+- [x] It should be possible to authenticate.
 - [ ] It must be possible to get the data of the logged in user.
 - [ ] It must be possible to obtain the number of check-ins performed by the logged-in user.
 - [ ] It must be possible to obtain check-in history.
