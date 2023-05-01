@@ -13,7 +13,7 @@ Gympass style app.
 - [ ] It should be possible to search for gyms by name.
 - [ ] It must be possible to check in at a gym.
 - [x] It must be possible to validate the user's check in.
-- [ ] It should be possible to register an academy.
+- [x] It should be possible to register an academy.
 
 ## BRs (Business rules)
 
